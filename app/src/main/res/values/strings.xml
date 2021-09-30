@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialNetwork</string>
+    <string name="facebook_app_id">120480636775151</string>
+    <string name="fb_login_protocol_scheme">fb120480636775151</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="select_picture">Select Picture</string>
+
+</resources>
